@@ -17,7 +17,7 @@ bar and used CSS to add designs and make the website responsive .
 
 ## Authors
 
-- [@PMaheshRao](https://github.com/PMaheshRao)
+- [@P Mahesh Rao](https://github.com/PMaheshRao)
 
 
 ## Feedback
