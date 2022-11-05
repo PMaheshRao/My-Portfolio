@@ -11,6 +11,7 @@ bar and used CSS to add designs and make the website responsive .
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pmaheshrao.github.io/My-portfolio/)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-mahesh-rao)
 
 
